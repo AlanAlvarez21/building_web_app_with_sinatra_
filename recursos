@@ -1,7 +1,12 @@
 http://www.cs.tut.fi/%7Ejkorpela/forms/methods.html  ---> Here's some info on the differences between HTTP GET and POST requests. It talks about the technical reasons you should use the POST method for forms that add new data to the server.
 
 
+There's a good discussion on the differences between POST and PUT on Stack Overflow.
+http://stackoverflow.com/questions/630453/put-vs-post-in-rest
 
+
+See the Mozilla Developer Network documentation on <form> elements.
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
 
 
 More general info about submitting HTML forms can be found on the Mozilla Developer Network.
